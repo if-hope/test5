@@ -36,8 +36,7 @@ public class Main {
              case 7:
                  System.out.println("Saturday");
                  break;
-             //default:
-                 //System.out.println("No such day in week");
+
          }
 
 //         String text = "Hello";
